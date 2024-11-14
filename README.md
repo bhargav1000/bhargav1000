@@ -55,13 +55,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/bhargav-sagiraju/).
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav1000&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/bhargav1000/bhargav1000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargav1000&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Harsh's GitHub Stats" />
-</a>
-<a>
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav1000&layout=compact&theme=dark">
-</a>
-<a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=bhargav1000&theme=github">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargav1000&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bhargav's GitHub Stats" />
 </a>
 
 ## Have a laugh <img src='https://github.com/bhargav1000/bhargav1000/blob/main/images/laughing_gif.gif' width='30px'>
