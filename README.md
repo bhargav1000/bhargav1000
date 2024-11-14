@@ -7,7 +7,7 @@ AI Research Manager at National University of Singapore. Driven by data's power 
 With a Master of Science in Business Analytics from NUS, my expertise extends to large language models and cloud services, which were instrumental in my prior role at TikTok, where I enhanced Keyframe Detection and SOP workflows. Our efforts culminated in substantial efficiency gains, setting new benchmarks in video analysis and content categorization.
 
 Data is the new oil—let me make it fuel your business. Open to discussions on data, machine learning, or life in general.
-You can find me on  [![LinkedIn](1.2)][1].
+You can find me on [LinkedIn](https://www.linkedin.com/in/bhargav-sagiraju/).
 
 <!-- Icons -->
 
