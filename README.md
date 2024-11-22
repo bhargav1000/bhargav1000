@@ -31,7 +31,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/bhargav-sagiraju/).
 
 ## 👩‍💻Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![](https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## 🔧Database
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
