@@ -1,3 +1,5 @@
+[![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://bhargav1000.github.io)
+
 ### Hello, folks!<img src="https://github.com/bhargav1000/bhargav1000/blob/main/images/wave.gif" width="30px">
 
 AI Research Manager at National University of Singapore. Driven by data's power to transform businesses, I excel in turning complex data into strategic assets. I am passionate about NLP, LLMs and General Machine Learning. I lead a team of researchers to develop and deploy MVPs on AWS cloud for foundation models, using Agile framework and cutting-edge technologies.
