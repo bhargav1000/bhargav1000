@@ -18,14 +18,6 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/bhargav-sagiraju/).
 [1]: https://www.linkedin.com/in/bhargav-sagiraju/
 
 
-## Visitor Count
-<div>
-<p > 
-<img src="https://profile-counter.glitch.me/bhargav1000/count.svg" />
-</p>
-</div>
-
-
 ## 💻Operating System
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
